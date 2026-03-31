@@ -6,7 +6,7 @@ We build systems that talk to each other so others don't have to. Our focus is o
 
 ---
 
-### 🛠️ My Automation Stack
+### 🛠️ Our Automation Stack
 
 ![n8n](https://shields.io)
 ![Python](https://shields.io)
